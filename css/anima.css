@@ -1,0 +1,209 @@
+#div21 {
+    margin-left: 12%;
+    padding: 10px;
+    width: 650px;
+    float: right;
+  }
+  
+  #div22 {
+    margin-left: 12%;
+    padding: 10px;
+    width: 650px;
+    float: right;
+  }
+  
+  
+  #div23 {
+    margin-left: 12%;
+    padding: 10px;
+    width: 650px;
+    float: right;
+  }
+  
+  #div24 {
+    margin-left: 12%;
+    padding: 10px;
+    width: 650px;
+    float: right;
+  }
+  
+  
+  
+  
+  #div31 {
+    background-color: #e2e2e2 ;
+    padding: 10px;
+    width: 370px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 0em 1em 1em 0em;
+    animation: div31 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  #div32 {
+    background-color: rgb(250, 142, 79) ;
+    padding: 10px;
+    width: 30px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 1em 0em 0em 1em;
+    animation: div32 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes div31{
+    0%{
+      width: 370px;
+    }
+  
+    100%{
+      width: 150px;
+    }
+  }
+  
+  @keyframes div32{
+    0%{
+      width: 30px;
+    }
+  
+    100%{
+      width: 250px;
+    }
+  }
+  
+  
+  
+  #div33 {
+    background-color: #e2e2e2 ;
+    padding: 10px;
+    width: 370px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 0em 1em 1em 0em;
+    animation: div33 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  #div34 {
+    background-color: rgb(88, 105, 255) ;
+    padding: 10px;
+    width: 30px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 1em 0em 0em 1em;
+    animation: div34 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes div33{
+    0%{
+      width: 370px;
+    }
+  
+    100%{
+      width: 150px;
+    }
+  }
+  
+  @keyframes div34{
+    0%{
+      width: 30px;
+    }
+  
+    100%{
+      width: 250px;
+    }
+  }
+  
+  #div35 {
+    background-color: #e2e2e2 ;
+    padding: 10px;
+    width: 370px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 0em 1em 1em 0em;
+    animation: div35 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  #div36 {
+    background-color: rgb(255, 219, 59) ;
+    padding: 10px;
+    width: 30px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 1em 0em 0em 1em;
+    animation: div36 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes div35{
+    0%{
+      width: 370px;
+    }
+  
+    100%{
+      width: 250px;
+    }
+  }
+  
+  @keyframes div36{
+    0%{
+      width: 30px;
+    }
+  
+    100%{
+      width: 150px;
+    }
+  }
+  
+  #div37 {
+    background-color: #e2e2e2 ;
+    padding: 10px;
+    width: 370px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 0em 1em 1em 0em;
+    animation: div37 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  #div38 {
+    background-color: rgb(124, 147, 177) ;
+    padding: 10px;
+    width: 30px;
+    float: right;
+    margin-top: 10%;
+    border-radius: 1em 0em 0em 1em;
+    animation: div38 3s ease ;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes div37{
+    0%{
+      width: 370px;
+    }
+  
+    100%{
+      width: 150px;
+    }
+  }
+  
+  @keyframes div38{
+    0%{
+      width: 30px;
+    }
+  
+    100%{
+      width: 250px;
+    }
+  }
